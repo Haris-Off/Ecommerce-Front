@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ekramasif.me">
+  <a>
     <img align="center" src="https://raw.githubusercontent.com/ekramasif/simple-ecommerce/main/images/hot-gadget.png" width="100%">
   </a>
 </p><br>
